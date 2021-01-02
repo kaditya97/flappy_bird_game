@@ -1,0 +1,17 @@
+{
+  "name": "FlappyBird",
+  "short_name": "FlappyBird",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "description": "pwa test",
+  "icons": [
+    {
+      "src": "bird.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
